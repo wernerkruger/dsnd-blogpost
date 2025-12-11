@@ -116,7 +116,7 @@ Stamper, J., Niculescu-Mizil, A., Ritter, S., Gordon, G.J., & Koedinger, K.R. (2
 
 Potential areas for enhancement:
 
-1. **Larger Dataset**: Use full dataset instead of first 500 rows for more robust model
+1. **Larger Dataset**: Use full dataset instead of first 200,000 rows for more robust model
 2. **Feature Engineering**: Explore temporal features, student history, and problem difficulty metrics
 3. **Advanced Models**: Experiment with neural networks, XGBoost, or ensemble methods
 4. **Hyperparameter Tuning**: Optimize model parameters using grid search or Bayesian optimization
